@@ -43,6 +43,6 @@ body {
     display:block;
     margin-left: auto;
     margin-right: auto;
-    font-size: large;
-    background: linear-gradient (to bottom, rgba(255, 255, 255, 0.432) 10%, rgba(0, 128, 0, 0.993))
+    font-size: 35px;
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0.432) 10%, rgba(0, 128, 0, 0.993));
 }
